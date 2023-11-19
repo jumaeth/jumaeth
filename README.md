@@ -60,13 +60,14 @@
 
 [//]: # (![Intellij]&#40;&#41;)
 
-[//]: # (### Environment)
+<hr/>
+<br/>
 
-[//]: # (![MAC OS]&#40;&#41;)
+### Environment
 
-[//]: # (![Windows]&#40;&#41;)
+![MAC OS](https://img.shields.io/badge/MAC_OS-000000?style=for-the-badge&logo=apple)
 
-[//]: # (![Linux]&#40;&#41;)
+![Windows](https://img.shields.io/badge/WINDOWS-03c1f4?style=for-the-badge&logo=windows)
 
 <br/>
 <hr/>
